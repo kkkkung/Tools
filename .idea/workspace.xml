@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8db2e931-7fe9-4548-9628-4f2e0d91a85f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/qiniu/config.go" beforeDir="false" />
-    </list>
+    <list default="true" id="8db2e931-7fe9-4548-9628-4f2e0d91a85f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +11,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.go">
+        <entry file="file://$PROJECT_DIR$/upload.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="3250">
+              <caret line="125" column="10" selection-start-line="125" selection-start-column="10" selection-end-line="125" selection-end-column="10" />
               <folding>
+                <element signature="e#14#240#0" expanded="true" />
                 <element signature="n#!!block;n#InitDB#0" />
                 <element signature="n#!!block;n#getImageData#0" />
                 <element signature="n#!!block;n#getImageByUrl#0" />
@@ -261,11 +260,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.go">
+    <entry file="file://$PROJECT_DIR$/upload.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="3250">
+          <caret line="125" column="10" selection-start-line="125" selection-start-column="10" selection-end-line="125" selection-end-column="10" />
           <folding>
+            <element signature="e#14#240#0" expanded="true" />
             <element signature="n#!!block;n#InitDB#0" />
             <element signature="n#!!block;n#getImageData#0" />
             <element signature="n#!!block;n#getImageByUrl#0" />
